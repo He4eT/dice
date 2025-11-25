@@ -1,0 +1,38 @@
+{
+  "name": "myfirstproject",
+  "author": "MakeAwesomeHappen",
+  "version": "1.0.0",
+  "keywords": [
+    "pebble-app"
+  ],
+  "private": true,
+  "dependencies": {
+    "pebble-clay": "1.0.4"
+  },
+  "pebble": {
+    "displayName": "myfirstproject",
+    "uuid": "11100000-0000-0000-0000-000000000001",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "projectType": "native",
+    "targetPlatforms": [
+      "aplite",
+      "basalt",
+      "chalk",
+      "diorite",
+      "emery"
+    ],
+    "watchapp": {
+      "watchface": false
+    },
+    "capabilities": [
+      "configurable"
+    ],
+    "messageKeys": [
+      "UPPER_BOUND"
+    ],
+    "resources": {
+      "media": []
+    }
+  }
+}
