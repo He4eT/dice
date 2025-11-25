@@ -10,8 +10,8 @@
     "pebble-clay": "1.0.4"
   },
   "pebble": {
+    "uuid": "17bac62e-38f7-49dd-8b50-d420290e9983",
     "displayName": "Dice",
-    "uuid": "11100000-0000-0000-0000-000000000001",
     "sdkVersion": "3",
     "enableMultiJS": true,
     "projectType": "native",
