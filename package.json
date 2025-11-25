@@ -1,6 +1,6 @@
 {
-  "name": "myfirstproject",
-  "author": "MakeAwesomeHappen",
+  "name": "Dice",
+  "author": "He4eT",
   "version": "1.0.0",
   "keywords": [
     "pebble-app"
@@ -10,7 +10,7 @@
     "pebble-clay": "1.0.4"
   },
   "pebble": {
-    "displayName": "myfirstproject",
+    "displayName": "Dice",
     "uuid": "11100000-0000-0000-0000-000000000001",
     "sdkVersion": "3",
     "enableMultiJS": true,
