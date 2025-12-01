@@ -3,5 +3,4 @@
 Press any right-side button on your watch
 to instantly roll a number from 1 to N.
 
-You can also change N anytime in the settings screen,
-adjusting the maximum value for your rolls.
+You can change N anytime in the settings to set the maximum roll value.
